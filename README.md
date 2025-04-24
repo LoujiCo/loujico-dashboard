@@ -1,1 +1,3 @@
-# LoujiCo Dashboard - النسخة الأولية
+# LoujiCo Dashboard
+
+Starter project for your personal dashboard.
